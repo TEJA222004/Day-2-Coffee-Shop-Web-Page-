@@ -15,5 +15,9 @@ This is a simple coffee shop webpage created using HTML and CSS. It’s part of 
 <hr>
 <h2><b>Technologies Used</b></h2>
 <b>HTML</b>:<i> For the structure of the webpage.  </i><br>
-<b>CSS</b> :<i> For styling and layout.
+<b>CSS</b> :<i> For styling and layout.</i>
 <hr>
+
+<h2>Preview of the Project:</h2>
+<img src="https://github.com/user-attachments/assets/93ccc7d5-4600-440c-aa6c-7fbccc1917ec" alt="Coffee Shop Page" width="300">
+
