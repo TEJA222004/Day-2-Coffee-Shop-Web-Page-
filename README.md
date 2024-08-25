@@ -1,17 +1,19 @@
 # Day-2
-Coffee Shop Web Page  
+<h2>Coffee Shop Web Page</h2> <hr>
+
 This is a simple coffee shop webpage created using HTML and CSS. It’s part of my daily project practice to improve my web development skills.
 
-Project Description
-The Coffee Shop Web Page features:
+<h3>Project Description</h3>
+<h4>The Coffee Shop Web Page features:</h4>
 
-A responsive layout using CSS for structure and design.
-Styled headings, paragraphs, and buttons.
-A navigation bar to link different sections of the page.
-Use of images to represent coffee products.
-A well-structured HTML5 layout with CSS3 for styling.
-The webpage is designed to be visually appealing and user-friendly, simulating a real coffee shop's website.
-
-Technologies Used
-HTML: For the structure of the webpage.
-CSS: For styling and layout.
+<li>A responsive layout using CSS for structure and design.</li>
+<li>Styled headings, paragraphs, and buttons.</li>
+<li>A navigation bar to link different sections of the page.</li>
+<li>Use of images to represent coffee products.</li>
+<li>A well-structured HTML5 layout with CSS3 for styling.</li>
+<li>The webpage is designed to be visually appealing and user-friendly, simulating a real coffee shop's website.</li>
+<hr>
+<h2><b>Technologies Used</b></h2>
+<b>HTML</b>:<i> For the structure of the webpage.  </i><br>
+<b>CSS</b> :<i> For styling and layout.
+<hr>
